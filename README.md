@@ -1,4 +1,4 @@
-# Welcome to the CICD practice ground
+# LEARN CICD FROM ZERO TO HERO
 
 > Know how to work with branches
 
